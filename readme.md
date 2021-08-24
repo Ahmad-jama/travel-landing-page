@@ -16,7 +16,7 @@ i design the page to be almost pixel perfect from figma file
 
 - figma design from : [figma design](https://www.figma.com/community/file/993910904620677970)
 
-- ## Demo : [Live website](https://travel-jadoo.netlify.app)
+- ## Demo : [Travel Landing Page](https://travel-jadoo.netlify.app)
 
 ## Quick Perview
 
